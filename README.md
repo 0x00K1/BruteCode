@@ -1,4 +1,3 @@
-```
 # BruteCode
 
 This is a simple educational tool designed to demonstrate how a basic password brute force attack could work. It randomly generates passwords and checks them against a user input to see how many attempts it takes to 'guess' the password.
