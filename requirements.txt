@@ -1,0 +1,2 @@
+pyautogui==0.9.53
+termcolor==1.1.0
