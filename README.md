@@ -8,10 +8,10 @@ The script provides a straightforward interface for selecting the type of charac
 
 ## Installation
 
-No installation is necessary beyond the standard Python libraries, and `pyautogui` and `termcolor` which can be installed via pip if you do not already have them.
+Before running the script, you need to install the required Python packages. You can install all the dependencies by running the following command:
 
 ```bash
-pip3 install pyautogui termcolor
+pip3 install -r requirements.txt
 ```
 
 ## Usage
