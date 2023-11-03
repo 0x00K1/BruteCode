@@ -25,4 +25,3 @@ python3 BruteCode.py
 ## Credits
 
 Developed as an educational script. Any similarities to actual password cracking tools are purely coincidental.
-```
